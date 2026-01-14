@@ -1,0 +1,59 @@
+{
+  "Navbar": {
+    "features": "Funcionalidades",
+    "pricing": "Preços",
+    "demo": "Demo",
+    "login": "Entrar",
+    "signup": "Registar"
+  },
+  "Hero": {
+    "headline": "Converta Vídeos, Imagens e Áudio no Browser",
+    "sub": "Processamento 100% client-side. Os seus ficheiros nunca saem do seu dispositivo. Privado, seguro e funciona offline.",
+    "cta": "Testar Grátis"
+  },
+  "Features": {
+    "video": "Conversão de Vídeo",
+    "video_desc": "Converta MP4, MKV, AVI, MOV e muito mais.",
+    "image": "Conversão de Imagem",
+    "image_desc": "Converta JPG, PNG, WEBP, GIF instantaneamente.",
+    "audio": "Conversão de Áudio",
+    "audio_desc": "Extraia áudio para MP3, WAV, AAC, OGG."
+  },
+  "Demo": {
+    "drop_title": "Arraste e solte ficheiros aqui",
+    "drop_sub": "ou clique para selecionar",
+    "load_ffmpeg": "Carregar FFmpeg.wasm"
+  },
+  "Pricing": {
+    "pricing": "Preços",
+    "free": "Gratuito",
+    "pro": "Pro",
+    "enterprise": "Empresarial",
+    "monthly": "/mês",
+    "get_started": "Começar",
+    "features_free": ["Formatos básicos", "5 conversões/dia", "Velocidade padrão"],
+    "features_pro": [
+      "Todos os formatos",
+      "Conversões ilimitadas",
+      "Velocidade prioritária",
+      "Processamento em lote"
+    ],
+    "features_enterprise": ["Integração personalizada", "Suporte SLA", "Instalação Offline"]
+  },
+  "FAQ": {
+    "q1": "É realmente privado?",
+    "a1": "Sim! Toda a conversão acontece dentro do seu navegador usando WebAssembly. Nenhum ficheiro é enviado para servidores.",
+    "q2": "Quais formatos são suportados?",
+    "a2": "Suportamos a maioria dos formatos comuns de vídeo, imagem e áudio suportados pelo FFmpeg.",
+    "q3": "Funciona offline?",
+    "a3": "Sim, uma vez carregada a aplicação, pode usá-la sem conexão à internet.",
+    "q4": "É gratuito?",
+    "a4": "Oferecemos um plano gratuito generoso. Planos Pro desbloqueiam processamento mais rápido e acesso ilimitado.",
+    "q5": "Preciso instalar software?",
+    "a5": "Não, funciona inteiramente no seu navegador moderno (Chrome, Firefox, Safari, Edge)."
+  },
+  "Footer": {
+    "copyright": "© 2026 MediaConvert. Todos os direitos reservados.",
+    "newsletter": "Assine a nossa newsletter"
+  }
+}

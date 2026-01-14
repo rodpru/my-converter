@@ -1,18 +1,8 @@
-import type { NextConfig } from 'next'
+import createNextIntlPlugin from "next-intl/plugin";
 
-const nextConfig: NextConfig = {
-  // to use Lingui macros
-  experimental: {
-    swcPlugins: [['@lingui/swc-plugin', {}]],
-  },
-  turbopack: {
-    rules: {
-      '*.po': {
-        loaders: ['@lingui/loader'],
-        as: '*.js',
-      },
-    },
-  },
-}
+const withNextIntl = createNextIntlPlugin();
 
-export default nextConfig
+/** @type {import('next').NextConfig} */
+const nextConfig = {};
+
+export default withNextIntl(nextConfig);

@@ -1,0 +1,59 @@
+{
+  "Navbar": {
+    "features": "Características",
+    "pricing": "Precios",
+    "demo": "Demo",
+    "login": "Entrar",
+    "signup": "Registrarse"
+  },
+  "Hero": {
+    "headline": "Convierte Vídeos, Imágenes y Audio en el Navegador",
+    "sub": "Procesamiento 100% del lado del cliente. Tus archivos nunca salen de tu dispositivo. Privado, seguro y funciona sin conexión.",
+    "cta": "Probar Gratis"
+  },
+  "Features": {
+    "video": "Conversión de Vídeo",
+    "video_desc": "Convierte MP4, MKV, AVI, MOV y más.",
+    "image": "Conversión de Imagen",
+    "image_desc": "Convierte JPG, PNG, WEBP, GIF al instante.",
+    "audio": "Conversión de Audio",
+    "audio_desc": "Extrae audio a MP3, WAV, AAC, OGG."
+  },
+  "Demo": {
+    "drop_title": "Arrastra y suelta archivos aquí",
+    "drop_sub": "o haz clic para seleccionar",
+    "load_ffmpeg": "Cargar FFmpeg.wasm"
+  },
+  "Pricing": {
+    "pricing": "Precios",
+    "free": "Gratis",
+    "pro": "Pro",
+    "enterprise": "Empresarial",
+    "monthly": "/mes",
+    "get_started": "Empezar",
+    "features_free": ["Formatos básicos", "5 conversiones/día", "Velocidad estándar"],
+    "features_pro": [
+      "Todos los formatos",
+      "Conversiones ilimitadas",
+      "Velocidad prioritaria",
+      "Procesamiento por lotes"
+    ],
+    "features_enterprise": ["Integración personalizada", "Soporte SLA", "Despliegue Offline"]
+  },
+  "FAQ": {
+    "q1": "¿Es realmente privado?",
+    "a1": "¡Sí! Toda la conversión ocurre dentro de tu navegador usando WebAssembly. No se suben archivos a ningún servidor.",
+    "q2": "¿Qué formatos son compatibles?",
+    "a2": "Soportamos la mayoría de los formatos comunes de vídeo, imagen y audio compatibles con FFmpeg.",
+    "q3": "¿Funciona sin conexión?",
+    "a3": "Sí, una vez cargada la aplicación, puedes usarla sin conexión a internet.",
+    "q4": "¿Es gratis?",
+    "a4": "Ofrecemos un plan gratuito generoso. Los planes Pro desbloquean un procesamiento más rápido y acceso ilimitado.",
+    "q5": "¿Necesito instalar software?",
+    "a5": "No, funciona completamente en tu navegador moderno (Chrome, Firefox, Safari, Edge)."
+  },
+  "Footer": {
+    "copyright": "© 2026 MediaConvert. Todos los derechos reservados.",
+    "newsletter": "Suscríbete a nuestro boletín"
+  }
+}

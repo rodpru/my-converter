@@ -1,0 +1,59 @@
+{
+  "Navbar": {
+    "features": "Features",
+    "pricing": "Pricing",
+    "demo": "Demo",
+    "login": "Login",
+    "signup": "Sign Up"
+  },
+  "Hero": {
+    "headline": "Convert Videos, Images & Audio in Browser",
+    "sub": "100% client-side processing. Your files never leave your device. Private, secure, and works offline.",
+    "cta": "Try Free"
+  },
+  "Features": {
+    "video": "Video Conversion",
+    "video_desc": "Convert MP4, MKV, AVI, MOV and more.",
+    "image": "Image Conversion",
+    "image_desc": "Convert JPG, PNG, WEBP, GIF instantly.",
+    "audio": "Audio Conversion",
+    "audio_desc": "Extract audio to MP3, WAV, AAC, OGG."
+  },
+  "Demo": {
+    "drop_title": "Drag & Drop files here",
+    "drop_sub": "or click to select files",
+    "load_ffmpeg": "Load FFmpeg.wasm"
+  },
+  "Pricing": {
+    "pricing": "Pricing",
+    "free": "Free",
+    "pro": "Pro",
+    "enterprise": "Enterprise",
+    "monthly": "/month",
+    "get_started": "Get Started",
+    "features_free": ["Basic formats", "5 conversions/day", "Standard speed"],
+    "features_pro": [
+      "All formats",
+      "Unlimited conversions",
+      "Prioritized speed",
+      "Batch processing"
+    ],
+    "features_enterprise": ["Custom integration", "SLA Support", "Offline Deployment"]
+  },
+  "FAQ": {
+    "q1": "Is it really private?",
+    "a1": "Yes! All conversion happens inside your browser using WebAssembly. No files are uploaded to any server.",
+    "q2": "What formats are supported?",
+    "a2": "We support most common video, image, and audio formats supported by FFmpeg.",
+    "q3": "Does it work offline?",
+    "a3": "Yes, once the app is loaded, you can use it without an internet connection.",
+    "q4": "Is it free?",
+    "a4": "We offer a generous free tier. Pro plans unlock faster processing and unlimited feature access.",
+    "q5": "Do I need to install software?",
+    "a5": "No, it works entirely within your modern web browser (Chrome, Firefox, Safari, Edge)."
+  },
+  "Footer": {
+    "copyright": "© 2026 MediaConvert. All rights reserved.",
+    "newsletter": "Subscribe to our newsletter"
+  }
+}
